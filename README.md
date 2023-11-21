@@ -15,6 +15,11 @@ Just open the vvvv patch and start the web-app. See further down on how to start
 
 ![Stride window on start](image.png)
 
+The "Click me" Button is rendered in the web and sends a String to vvvv, which is then rendered as a skia graphics. 
+The "Test" Button is rendered in vvvv (ImGui) and sends a String to the web-app, which results in a new html element rendering.
+You can also touch/click anywhere on the screen, which changes the color of the red circle and by dragging/pinching, you can move/scale the circle. This circle is rendered in vvvv and the information comes from the web-app. In this case, there is no touhc/mouse input from vvvv side.
+
+
 ## How to start the Web Interface
 
 In the project directory (/react-template), you can run:
