@@ -41,6 +41,7 @@ Your app is ready to be deployed or served locally!
 ### serve -s build
 
 Serves the build on a local server.
+Open http://localhost:3000 to view it in your browser.
 
 For more information:
 [serve npm package documentation](https://www.npmjs.com/package/serve)
