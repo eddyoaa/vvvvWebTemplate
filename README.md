@@ -50,3 +50,7 @@ For more information:
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Additional Information#
+
+There is also a folder called "Web_Keyboard_for_react" which contains a styled keyboard Component, which you can import to your web-app and use as a virtual Keyboard.
