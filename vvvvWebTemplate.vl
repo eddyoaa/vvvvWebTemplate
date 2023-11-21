@@ -664,7 +664,7 @@
             <Pin Id="HEK3mrbqkLRMwaO4sFMwfD" Name="New Value" Kind="InputPin" />
             <Pin Id="Sis8AgePcWUMU8BHsMl2ID" Name="Apply" Kind="InputPin" />
           </Node>
-          <Pad Id="Jf63keUBMZZOB3W4mIi4Tl" Comment="DefaultJSON" Bounds="1263,88,256,18" ShowValueBox="true" isIOBox="true" Value="{&quot;type&quot;:&quot;none&quot;}">
+          <Pad Id="Jf63keUBMZZOB3W4mIi4Tl" Comment="DefaultJSON" Bounds="1263,88,256,18" ShowValueBox="true" isIOBox="true" Value="{&quot;type&quot;:&quot;pinch&quot;, &quot;movement&quot;: [0.8,0.9]}">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
